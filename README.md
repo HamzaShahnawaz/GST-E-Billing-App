@@ -37,6 +37,9 @@
  Pending bills of customers                       | Paid bills of customers
 :-----------------------------------------------:|:-------------------------------------:
  <img src="Screenshots/screen_7.png" width="315">|<img src="Screenshots/screen_6.png" width="315">
+
+ ##**For further queries :Drop me mail at** hamzashahnawaz3440@gmail.com
+
  
 | You can easily generate the PDFs of bills of all customers                                |
 | :----------------------------------------------------------------------------------------:|
